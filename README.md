@@ -1,6 +1,6 @@
 # gameball-task
 
-framework: nodejs
+framework: nodejs, 
 database: mongodb
 
  npm install
