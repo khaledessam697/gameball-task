@@ -3,6 +3,8 @@
 framework: nodejs, 
 database: mongodb
 
+ rename env.example to .env
+
  npm install
  
  npm run start
