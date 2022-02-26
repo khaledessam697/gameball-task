@@ -1,6 +1,6 @@
 # gameball-task
 
-framework: nodejs, 
+# framework: nodejs, 
 database: mongodb
 
  rename env.example file to .env
