@@ -3,7 +3,7 @@
 framework: nodejs, 
 database: mongodb
 
- rename env.example to .env
+ rename env.example file to .env
 
  npm install
  
